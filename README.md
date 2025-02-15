@@ -12,4 +12,3 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Roni81/kiosk_univer?style=plastic&labelColor=%23fce911&color=red)
 
 
-![Group 1](https://github.com/user-attachments/assets/8b2c4d2f-d056-494a-8275-8cdab9325ec7)
