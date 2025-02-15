@@ -9,6 +9,6 @@
 ![Static Badge](https://img.shields.io/badge/gTTS-%234285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Roni81/kiosk_univer?style=plastic&labelColor=%23fce911&color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Roni81/Voice_kiosk?style=plastic&labelColor=%23fce911&color=red)
 
 
